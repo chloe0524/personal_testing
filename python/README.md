@@ -1,1 +1,1 @@
-![Black and White Modern Thunder Twitch Panel (1)](https://github.com/chloe0524/personal_testing/assets/127857895/5471c9a1-a85e-454a-a969-6964f7bc2a18)
+![Black and White Modern Thunder Twitch Panel (2)](https://github.com/chloe0524/personal_testing/assets/127857895/5b6b840c-01af-4cf1-ae8b-fb37054064a3)
