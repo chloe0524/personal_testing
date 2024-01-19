@@ -3,7 +3,7 @@ y = int(input("y: "))
 
 print (x + y)
 
-#or
+#multiple options
 
 x = input("x: ")
 y = input("y: ")
@@ -18,7 +18,7 @@ print (int(x) + int(y))
 #>  File "/workspaces/personal_testing/python/calculator.py", line 4, in <module>
 #>    print (int(x) + int(y))
 #>ValueError: invalid literal for int() with base 10: 'cat'
--------------------------------------------------------------------------------------
+
 #from lib import int_perso or if want to use
 # the int_perso fonction from the library and not one made by the user
 
